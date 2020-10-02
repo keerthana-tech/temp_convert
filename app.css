@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+body{
+  background-image:url("pattern (5).png");
+  background-repeat: no-repeat;
+  
+}
+.cel {
+  background-color:antiquewhite;
+  width:40%;
+  margin: 0 auto;
+  margin-top: 100px;
+  height: 150px;
+  border-style: solid;
+  font-family: Orbitron;
+  padding-left: 20px;
+}
+.fah{
+  background-color:antiquewhite;
+  width:40%;
+  margin: 0 auto;
+  margin-top: 80px;
+  height: 150px;
+  border-style: solid;
+  font-family: Orbitron;
+  padding-left: 20px;
+  
+}
+.text{
+  font-family: Orbitron ;
+  font-weight: bolder;
+  width:20%;
+  
+}
